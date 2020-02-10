@@ -5,9 +5,33 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+  padding: 0%;
+  margin: 2%;
+  color: tomato;
+}
+
+div {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+html {
+  background: url('https://europasschina.com/wp-content/uploads/2019/08/ecommerce.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 80%;
 }
